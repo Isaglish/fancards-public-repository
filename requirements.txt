@@ -1,0 +1,6 @@
+discord.py==2.0.0
+dnspython
+git+https://github.com/Gorialis/jishaku
+asyncpg
+asyncio
+Pillow

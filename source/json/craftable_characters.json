@@ -1,0 +1,77 @@
+{
+    "characters": [
+        {
+            "name": "Martin Magni",
+            "required_characters": {
+                "Grass": 1,
+                "Pinky": 1,
+                "Tumble": 1,
+                "Gobble": 1,
+                "Reload": 1,
+                "Dino": 1,
+                "Ditto": 1,
+                "Speed King": 1,
+                "Turbo Tracks": 1,
+                "Dino Bros": 1,
+                "Flatboy": 1,
+                "Railgunner": 1,
+                "Carbot": 1,
+                "Oddbot": 1,
+                "Longcat": 1,
+                "Mad Car": 1,
+                "Monster Match Knight": 1,
+                "Monster Match Blue": 1,
+                "Monster Match Brown": 1,
+                "Monster Match Orange": 1,
+                "Monster Match Pink": 1,
+                "Monster Match Purple": 1,
+                "Monster Match Red": 1,
+                "Monster Match White": 1,
+                "Monster Match Yellow": 1,
+                "Monster Match": 1
+            },
+            "required_items": {
+                "crown": 1
+            }
+        },
+        {
+            "name": "Oddbot Plushie",
+            "required_characters": {
+                "Oddbot": 3
+            },
+            "required_items": {
+                "crown": 1
+            }
+        },
+        {
+            "name": "Skill Team",
+            "required_characters": {
+                "Skill Blue": 3,
+                "Skill Brown": 3,
+                "Skill Gray": 3,
+                "Skill Green": 3,
+                "Skill Orange": 3,
+                "Skill Pink": 3,
+                "Skill Purple": 3,
+                "Skill Red": 3,
+                "Skill Yellow": 3
+            },
+            "required_items": {}
+        },
+        {
+            "name": "Monster Match",
+            "required_characters": {
+                "Monster Match Knight": 1,
+                "Monster Match Blue": 1,
+                "Monster Match Brown": 1,
+                "Monster Match Orange": 1,
+                "Monster Match Pink": 1,
+                "Monster Match Purple": 1,
+                "Monster Match Red": 1,
+                "Monster Match White": 1,
+                "Monster Match Yellow": 1
+            },
+            "required_items": {}
+        }
+    ]
+}

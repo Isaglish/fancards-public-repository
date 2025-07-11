@@ -1,0 +1,101 @@
+{
+    "thumbnail": {
+        "width": 128,
+        "url": "https: //avatar.webhook-topgg.com/353774678826811403?ts=1677030358",
+        "proxy_url": "https://images-ext-1.discordapp.net/external/85SdwspNWMrO1jPdz3GgZP1CyJmgp71gGDJNDvuqjCA/%3Fts%3D1677030358/https/avatar.webhook-topgg.com/353774678826811403",
+        "height": 128
+    },
+    "fields": [
+        {
+            "value": "<@353774678826811403>",
+            "name": "User:",
+            "inline": true
+        },
+        {
+            "value": "<@1064145673513087018>",
+            "name": "Bot:",
+            "inline": true
+        },
+        {
+            "value": "<t:1677030358>",
+            "name": "Voted at:",
+            "inline": true
+        },
+        {
+            "value": "<t:1677073558:R>",
+            "name": "Can vote again at:",
+            "inline": true
+        },
+        {
+            "value": 1,
+            "name": "Total Votes:",
+            "inline": true
+        },
+        {
+            "value": 1,
+            "name": "Current Vote Streak:",
+            "inline": true
+        },
+        {
+            "value": "undefined",
+            "name": "Bot total votes:",
+            "inline": true
+        },
+        {
+            "value": "undefined",
+            "name": "Bot monthly votes:",
+            "inline": true
+        },
+        {
+            "value": 1,
+            "name": "old Streak:",
+            "inline": true
+        },
+        {
+            "value": 1,
+            "name": "Last vote old Streak:",
+            "inline": true
+        },
+        {
+            "value": "test",
+            "name": "Type:",
+            "inline": true
+        },
+        {
+            "value": "undefined",
+            "name": "Is weekend?",
+            "inline": true
+        },
+        {
+            "value": 353774678826811400,
+            "name": "user ID",
+            "inline": true
+        },
+        {
+            "value": "https://top.gg/bot/1064145673513087018",
+            "name": "topgg link",
+            "inline": true
+        },
+        {
+            "value": "empty",
+            "name": "query String",
+            "inline": true
+        },
+        {
+            "value": 1677030358,
+            "name": "unix Timestamp",
+            "inline": true
+        },
+        {
+            "value": 1677073558,
+            "name": "unix Timestamp revote",
+            "inline": true
+        }
+    ],
+    "color": 13938487,
+    "timestamp": "2023-02-22T01:45:58.043000+00:00",
+    "type": "rich",
+    "description": "<@353774678826811403> Voted for <@1064145673513087018>!",
+    "url": "https://top.gg/bot/1064145673513087018",
+    "title": "Voted"
+}

@@ -1,0 +1,74 @@
+{
+    "items": [
+        {
+            "name": "glistening gem",
+            "description": "A glistening gem. Can be obtained by burning a shiny card."
+        },
+        {
+            "name": "fusion crystal",
+            "description": "Allows access to the fusion device in the forge.",
+            "price": 7500,
+            "currency": "star"
+        },
+        {
+            "name": "card sleeve",
+            "description": "Protects a card from downgrading. Limited to one use only.",
+            "price": 1,
+            "currency": "voucher"
+        },
+        {
+            "name": "premium drop",
+            "description": "A premium drop with increased odds. Guarantees uncommon card and higher.",
+            "price": 2,
+            "currency": "voucher"
+        },
+        {
+            "name": "crown",
+            "description": "This precious golden crown allows you to craft various rare items and cards due to its rare properties.",
+            "price": 250000,
+            "currency": "silver"
+        },
+        {
+            "name": "backpack upgrade",
+            "description": "Increases the amount of cards you can collect. You can collect infinite cards at level 5 backpack.",
+            "price": 0,
+            "currency": "gem",
+            "visible": false
+        },
+        {
+            "name": "rare card pack",
+            "description": "A rare card pack that comes with 7 total cards. It has guaranteed 2~4 rare cards and uncommons.",
+            "price": 3000,
+            "currency": "silver",
+            "usable": true
+        },
+        {
+            "name": "epic card pack",
+            "description": "An epic card pack that comes with 7 total cards. Contains guaranteed 1~2 epic cards, 0~6 rare cards, and uncommons.",
+            "price": 6000,
+            "currency": "silver",
+            "usable": true
+        },
+        {
+            "name": "mythic card pack",
+            "description": "A mythic card pack that comes with 5 total cards. Contains a guaranteed mythic card, 1~2 epic cards, and rares.",
+            "price": 15000,
+            "currency": "silver",
+            "usable": true
+        },
+        {
+            "name": "legendary card pack",
+            "description": "A legendary card pack that comes with 5 total cards. Contains a guaranteed legendary card, possible mythic card or epic card, and rares.",
+            "price": 50000,
+            "currency": "silver",
+            "usable": true
+        },
+        {
+            "name": "exotic card pack",
+            "description": "An exotic card pack that comes with 5 total cards. Contains possible exotic card, 0~2 legendary cards, possible mythic card, and epics.",
+            "price": 125000,
+            "currency": "silver",
+            "usable": true
+        }
+    ]
+}
